@@ -1,7 +1,8 @@
 # r-demos
 my r-related demos and code snippets
 
-**DataFrame-Manipulation** contains examples of how to manipulate data-frame objects
+##DataFrame-Manipulation
+contains examples of how to manipulate data-frame objects
 **Natural Language Processing - Sentimental Analysis** contains an example of how to perform sentimental analysis using various classification models. Each model has an evaluation section.
 **R Visualization (Base)** Has many examples of plotting with R base package
 **R Visualization (Lattice)** Has many examples of plotting with R Lattice package
